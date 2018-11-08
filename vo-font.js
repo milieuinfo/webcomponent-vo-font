@@ -89,7 +89,7 @@ document.head.appendChild(styleElement);
  *
  * @customElement
  * @polymer
- * @demo demo/index.html
+ * @demo demo/vo-font.html
  */
 class VoFont extends LitElement {
 	render() {
