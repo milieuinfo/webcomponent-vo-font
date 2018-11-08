@@ -9,7 +9,6 @@ npm install --save vo-font
 ```
 
 ## Gebruik
-Maak gebruik van de component in de dist map. Om de Vlaanderen font te kunnen gebruiken, moeten de fonts gepubliceerd worden.
 
 ### Gebruik via de font-family
 Na import van de vo-font component kan de 'Flanders Art' font-family gebruikt worden.
