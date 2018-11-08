@@ -92,6 +92,11 @@ document.head.appendChild(styleElement);
  * @demo demo/vo-font.html
  */
 class VoFont extends LitElement {
+	/**
+	 * Rendert het element.
+	 * 
+	 * @return {TemplateResult}
+	 */
 	render() {
 		return html`
 			<style>
