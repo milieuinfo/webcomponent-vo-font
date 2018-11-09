@@ -21,7 +21,7 @@ In combinatie met Polymer 2 kan er best gebruik gemaakt worden van de component 
 
 ### Documentatie en demo
 
-[Publicatie van documentatie en demo](https://milieuinfo.github.io/webcomponent-vo-font)
+[Publicatie van documentatie en demo](https://milieuinfo.github.io/webcomponenten-demo)
 
 ## Ontwikkelaars
 
